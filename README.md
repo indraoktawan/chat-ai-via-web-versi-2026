@@ -175,8 +175,7 @@ Response Body (JSON 200 OK):
 code
 JSON
 {
-  "visualObservations": [
-    "Plak eritematosa batas tegas dengan vesikel mikro multipel",
+  "visualObservations": <img width="1036" height="1196" alt="1001330846" src="https://github.com/user-attachments/assets/27a2dbaa-c5be-47e1-89c4-7e22b13ab4dd" />
     "Pola lesi linier yang mengindikasikan kontak dengan tanaman",
     "Tanda ekskoriasi ringan tanpa nanah aktif"
   ],
